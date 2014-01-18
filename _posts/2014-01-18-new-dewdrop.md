@@ -8,5 +8,7 @@ Dewdrop is a free and open-source Droplr client for Linux.
 
 -----
 ### Download
+
 > <a href="https://github.com/mdo/hyde/issues/new">Ubuntu</a>
+
 > <a href="https://github.com/mdo/hyde/issues/new">Elementary OS</a>
