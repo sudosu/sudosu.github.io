@@ -6,7 +6,7 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Sudo
+title:            sudo
 tagline:          'Personal blog'
 description:      'My different stuff'
 url:              http://sudosu.github.io
