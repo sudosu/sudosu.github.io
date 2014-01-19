@@ -12,3 +12,5 @@ Dewdrop is a free and open-source Droplr client for Linux.
 > for <a href="/dewdrop/0.11/dewdrop-ubuntu.deb">Ubuntu</a>
 
 > for <a href="/dewdrop/0.11/dewdrop-eos.deb">Elementary OS</a>
+
+Or you can get the latest version on <a href="/dewdrop">this page</a>.
