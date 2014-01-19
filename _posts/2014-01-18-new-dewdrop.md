@@ -12,4 +12,4 @@ By continuing to build packages for <a href="http://dewdrop.deepcode.net/">Dewdr
 
 > for <a href="/dewdrop/0.11/dewdrop-eos.deb">Elementary OS</a>
 
-Or you can get the latest version on <a href="/dewdrop">this page</a>.
+Or you can always to get the latest version on <a href="/dewdrop">this page</a>.
