@@ -7,8 +7,8 @@ By continuing to build packages for <a href="http://dewdrop.deepcode.net/">Dewdr
 Dewdrop is a free and open-source Droplr client for Linux.
 
 -----
-### Download
+### Download:
 
-> <a href="/dewdrop/0.11/dewdrop-ubuntu.deb">Ubuntu</a>
+> for <a href="/dewdrop/0.11/dewdrop-ubuntu.deb">Ubuntu</a>
 
-> <a href="/dewdrop/0.11/dewdrop-eos.deb">Elementary OS</a>
+> for <a href="/dewdrop/0.11/dewdrop-eos.deb">Elementary OS</a>
