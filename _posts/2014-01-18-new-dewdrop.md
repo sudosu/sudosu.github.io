@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Deb packages for Dewdrop v0.11.
+title: DEB packages for Dewdrop v0.11.
 ---
 
 By continuing to build packages for <a href="http://dewdrop.deepcode.net/">Dewdrop</a>, I've done it for new version.
