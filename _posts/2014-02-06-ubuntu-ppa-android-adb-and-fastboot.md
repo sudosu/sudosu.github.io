@@ -3,6 +3,7 @@ layout: post
 title: Install ADB And Fastboot Android Tools In Ubuntu-based OS Via PPA
 ---
 
+In terminal:
 ```bash
 sudo add-apt-repository ppa:nilarimogard/webupd8
 sudo apt-get update
