@@ -2,8 +2,7 @@
 layout: post
 title: Install ADB And Fastboot Android Tools In Ubuntu-based OS Via PPA
 ---
-
-In terminal:
+Easiest way to use android SDK tools in Linux
 
 ```bash
 # terminal:~$
