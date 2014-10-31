@@ -1,0 +1,127 @@
+body {
+    font-family: Utopia, Georgia, Times, serif;
+    background-image: url(images/2006.pale.jpg);
+}
+.page h1 {
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.page h2 {
+    border-bottom: solid 1px gray;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+.page img {
+    display:block;
+    margin:0 auto;
+}
+.page code {
+    background-color: #FFFEF9;
+    color: #936;
+    font-size: 125%;
+}
+.page pre {
+    background-color: #FFFEF9;
+    margin-left: 40px;
+    border: solid 1px #C9B;
+    padding: 5px;
+}
+.page {
+    width: 800px;
+    background-color: white;
+    padding: 80px;
+    margin:0 auto;
+    display:block;
+}
+#next {
+    text-align:right;
+}
+.page p {
+    line-height: 150%;
+}
+.page blockquote {
+    font-style: italic;
+    font-size: larger;
+    color: #435;
+    margin: 0 40px;
+}
+
+.figure {
+   float: right;
+   padding-left: 10px;
+   padding-bottom: 10px;
+}
+
+.figure .caption {
+    display: none;
+}
+
+.sidebar {
+    width: 280px;
+    float: right;
+    margin-left: -66px;
+    background-image: url(images/2006.pale.jpg);
+    font-size: smaller;
+    position: relative;
+    left: 80px;
+    border-right: solid 1px #CCC;
+    border-left: solid 1px #CCC;
+}
+
+.sidebar_content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.sidebar h2 {
+    color: #555;
+    font-size: 1.2em;
+    border-bottom: solid 4px #CCC;
+    margin: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.sidebar h1 {
+    background-color: #7A8A9A;
+    color: #EFF9ED;
+    text-align: center;
+    margin: 0;
+    padding: 4px;
+    font-size: 1.2em;
+}
+
+.sidebar ol {
+    -webkit-padding-start:15px;
+}
+
+#banner {
+    width: 960px;
+    padding-top: 10px;
+    margin:0 auto;
+}
+
+#banner .pager {
+    float: right;
+    padding-top: 15px;
+    padding-right: 15px;
+    font-size: 11pt;
+}
+
+.page hr {
+	border: none;
+	text-align: center;
+}
+
+.page hr::after {
+	content: "***";
+	letter-spacing: 2em;
+	font-size: 1.4em;
+}
+
+.sidebar .figure .caption {
+    display: block;
+	text-align: center;
+}
+
